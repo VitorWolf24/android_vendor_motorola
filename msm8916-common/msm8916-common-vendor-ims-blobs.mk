@@ -56,7 +56,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libvoice-svc.so:vendor/lib/libvoice-svc.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/vendor.qti.hardware.radio.ims@1.0_vendor.so:vendor/lib/vendor.qti.hardware.radio.ims@1.0_vendor.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/vendor.qti.imsrtpservice@1.0-service-Impl.so:vendor/lib/vendor.qti.imsrtpservice@1.0-service-Impl.so \
-    vendor/motorola/msm8916-common/proprietary/vendor/lib/vendor.qti.imsrtpservice@1.0_vendor.so:vendor/lib/vendor.qti.imsrtpservice@1.0_vendor.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/vendor.qti.imsrtpservice@1.0.so:vendor/lib/vendor.qti.imsrtpservice@1.0.so
 
 PRODUCT_PACKAGES += \
